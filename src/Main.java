@@ -3,7 +3,6 @@ public class Main {
         boolean ha1,ha2,ha3;
         Student s1 = new Student("asghar","farhadi","9731020");
 //        Student s2 = new Student("angelina","jolie","9731021");
-//        Student s3 = new Student("kooft","dard","pashm");
         s1.setGrade(20);
 //        s2.setGrade(10);
 
